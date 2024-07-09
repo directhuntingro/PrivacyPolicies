@@ -1,6 +1,5 @@
-# PrivacyPolicies
-PRIVACY POLICY FOR "PagubeFauna" MOBILE APPLICATION
-This privacy policy governs your use of the software application PagubeFauna (“Application”) for mobile devices that was created by Direct Hunting SRL. The Application is developed for facilitating a scientific project  for estimating the agricultural damages made by game species in Romania.
+PRIVACY POLICY FOR "IncidenteFauna" MOBILE APPLICATION
+This privacy policy governs your use of the software application IncidenteFauna (“Application”) for mobile devices that was created by Direct Hunting SRL. The Application is developed for facilitating a scientific project  for estimating the agricultural damages made by game species in Romania.
  
 What information does the Application obtain and how is it used?
 User Provided Information 
