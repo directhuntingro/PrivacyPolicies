@@ -1,6 +1,7 @@
 # PrivacyPolicies
-PRIVACY POLICY FOR “GenUrs” MOBILE APPLICATION
-This privacy policy governs your use of the software application GenUrs (“Application”) for mobile devices that was created by Direct Hunting SRL. The Application is developed for facilitating a scientific project  for estimating the bear population from Romania based on DNA samples.
+PRIVACY POLICY FOR “Limite FC” MOBILE APPLICATION
+This privacy policy governs your use of the software application Limite FC (“Application”) for mobile devices that was created by Direct Hunting SRL for 
+Ministerul Mediului, Apelor si Padurilor. The Application is developed for viewing the limits of hunting areas.
  
 What information does the Application obtain and how is it used?
 User Provided Information 
@@ -13,7 +14,7 @@ Automatically Collected Information
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
  
 Does the Application collect precise real time location information of the device?
-When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the location of the collected DNA samples. We will not share your current location with other users or partners.
+When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to show your position relative to the limits of the hunting areas. We will not share your current location with other users or partners.
 If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application. 
  
 Do third parties see and/or have access to information obtained by the Application?
