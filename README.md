@@ -15,6 +15,16 @@ In addition, the Application may collect certain information automatically, incl
 Does the Application collect precise real time location information of the device?
 When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the location of the collected DNA samples. We will not share your current location with other users or partners.
 If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application. 
+
+Location Data Collection and Use
+The "Observatii Fauna" Application collects precise location data to enable the "Session Tracking" feature, which maps your movement during field harvesting and fauna observations.
+
+Background Collection: This data is collected every 5 minutes while a session is active, even when the app is closed or not in use, to ensure a continuous and accurate movement path is recorded for scientific DNA sample context.
+
+User Control: You can start or stop this collection at any time by ending the session within the app.
+
+Data Sync: This location history is stored locally on your device and is only transmitted to our secure servers when you manually initiate the "Synchronize" action. We do not sell or share this movement data with third-party advertisers.
+
  
 Do third parties see and/or have access to information obtained by the Application?
 Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
