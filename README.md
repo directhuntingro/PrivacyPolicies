@@ -1,6 +1,6 @@
 # PrivacyPolicies
-PRIVACY POLICY FOR “GenUrs” MOBILE APPLICATION
-This privacy policy governs your use of the software application GenUrs (“Application”) for mobile devices that was created by Direct Hunting SRL. The Application is developed for facilitating a scientific project  for estimating the bear population from Romania based on DNA samples.
+PRIVACY POLICY FOR “Observatii Fauna” MOBILE APPLICATION
+This privacy policy governs your use of the software application Observatii Fauna (“Application”) for mobile devices that was created by Direct Hunting SRL. The Application is developed for facilitating a scientific project  for estimating the bear population from Romania based on DNA samples.
  
 What information does the Application obtain and how is it used?
 User Provided Information 
